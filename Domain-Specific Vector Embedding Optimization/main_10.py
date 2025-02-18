@@ -1,3 +1,4 @@
+# file for synthetic dataset generation using LLM and knowledge base
 import os
 import chromadb
 import requests
