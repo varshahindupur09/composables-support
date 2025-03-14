@@ -1,4 +1,4 @@
 .venv/
 .env
-data2/data2/__pycache__/*
-chroma_db/*
+data2/cryptocurrency/__pycache__/*
+data2/cryptocurrency/chroma_db/*
