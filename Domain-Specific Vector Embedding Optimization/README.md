@@ -109,3 +109,7 @@ To improve retrieval performance in domain-specific applications, we need to fin
 4. Fully functional **Benchmarking Module**.
 5. Improved retrieval accuracy with the fine-tuned model.
 6. Comprehensive documentation and unit tests.
+
+
+# troubleshooting
+aws configure --profile VarshaHindupur

@@ -331,6 +331,7 @@ if __name__ == "__main__":
         "https://www.pi.exchange/blog/predictive-analytics-in-banking",
         "https://binariks.com/blog/predictive-analytics-in-fintech/",
         "https://www.sciencedirect.com/science/article/pii/S2405918822000071?ssrnid=4053319&dgcid=SSRN_redirect_SD"
+    
     ]
   
     pdf_folder = "pdfs_data"

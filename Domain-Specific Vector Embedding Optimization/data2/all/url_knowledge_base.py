@@ -5,6 +5,7 @@ import re
 from bs4 import BeautifulSoup
 from concurrent.futures import ThreadPoolExecutor
 from llama_index.core import Document
+# from data2.all.
 from clean_text import CleanText
 
 # Configure Logging

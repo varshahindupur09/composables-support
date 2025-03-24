@@ -1,0 +1,13 @@
+Generated 0/2500 synthetic dataset entries.
+2025-03-20 12:21:04,417 - INFO - ✅ Finished generating with Model: 0, llama-3.3-70b-specdec | API Key 1
+2025-03-20 12:21:04,418 - INFO - 🔄 Switching to Model llama-3.3-70b-versatile
+2025-03-20 12:21:04,419 - INFO - Using Model: llama-3.3-70b-specdec with API Key 1
+2025-03-20 12:21:04,419 - INFO - Resuming dataset generation after API key/model switch.
+
+
+2025-03-20 12:21:30,369 - INFO - Generated 0/100 synthetic dataset entries.
+2025-03-20 12:21:30,369 - INFO - ✅ Finished generating with Model: 0, llama-3.3-70b-specdec | API Key 1
+2025-03-20 12:21:30,369 - INFO - 🔄 Switching to Model llama-3.3-70b-versatile
+2025-03-20 12:21:30,370 - INFO - Using Model: llama-3.3-70b-specdec with API Key 1
+2025-03-20 12:21:30,370 - INFO - Resuming dataset generation after API key/model switch.
+

@@ -1,4 +1,9 @@
-.venv/
-.env
+data2/all/.venv/*
+data2/all/.env
+data2/all/__pycache__/*
+data2/all/chroma_db/*
 data2/cryptocurrency/__pycache__/*
 data2/cryptocurrency/chroma_db/*
+data2/predictive_analytics_in_finance/__pycache__/*
+creds_file.txt
+data2/predictive_analytics_in_finance/chroma_db/*
